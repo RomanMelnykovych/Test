@@ -1,0 +1,23 @@
+table{
+    border-width: 1px;
+    border-style: solid;
+    border-collapse: collapse;
+}
+th{
+    border-width: 1px;
+    border-style: solid;
+}
+tr{
+    border-width: 1px;
+    border-style: solid;
+}
+td{
+    border-width: 1px;
+    border-style: solid;
+}
+img{
+   width: 250px;
+}
+iframe{
+    width: 400px;
+}
